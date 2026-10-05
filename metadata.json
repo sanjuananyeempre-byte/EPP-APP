@@ -1,0 +1,6 @@
+{
+  "name": "Registro de Entrega de EPP",
+  "description": "Sistema digital intuitivo y táctil para el registro ágil de entrega de Elementos de Protección Personal a trabajadores, con guardado acumulativo y exportación a Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
